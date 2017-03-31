@@ -1,0 +1,175 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+Designator FIDUCIAL-2X3-PANEL    378.937mil    128.937mil    378.937mil    128.937mil    378.937mil    128.937mil  T         90.00 Comment        
+Designator FIDUCIAL-2X3-PANEL   7907.796mil     131.89mil   7907.796mil     131.89mil   7907.796mil     131.89mil  B         90.00 Comment        
+Designator FIDUCIAL-2X3-PANEL    378.937mil    128.937mil    378.937mil    128.937mil    378.937mil    128.937mil  B         90.00 Comment        
+Designator FIDUCIAL-2X3-PANEL    378.937mil   2184.843mil    378.937mil   2184.843mil    378.937mil   2184.843mil  B         90.00 Comment        
+Designator FIDUCIAL-2X3-PANEL   7907.796mil   2187.795mil   7907.796mil   2187.795mil   7907.796mil   2187.795mil  B         90.00 Comment        
+Designator FIDUCIAL-2X3-PANEL   7907.796mil   2187.795mil   7907.796mil   2187.795mil   7907.796mil   2187.795mil  T         90.00 Comment        
+Designator FIDUCIAL-2X3-PANEL    378.937mil   2184.843mil    378.937mil   2184.843mil    378.937mil   2184.843mil  T         90.00 Comment        
+Designator FIDUCIAL-2X3-PANEL   7907.796mil     131.89mil   7907.796mil     131.89mil   7907.796mil     131.89mil  T         90.00 Comment        
+Hole1      Hole_Hole(Primary)    337.654mil   1424.866mil    337.654mil   1424.866mil    337.654mil   1424.866mil  T          0.00                
+Hole2      Hole_Hole_1(Primary)   1565.653mil   1424.866mil   1565.653mil   1424.866mil   1565.653mil   1424.866mil  T          0.00                
+Hole3      Hole_Hole_2(Primary)    951.654mil    361.866mil    951.654mil    361.866mil    951.654mil    361.866mil  T          0.00                
+Pad9       PAD                469.654mil   1201.866mil    469.654mil   1201.866mil    469.654mil   1201.866mil  T          0.00                
+Pad10      PAD               1435.653mil   1201.866mil   1435.653mil   1201.866mil   1435.653mil   1201.866mil  T          0.00                
+Pad11      PAD_0.1-HOTEND     951.654mil   1070.866mil    951.654mil   1070.866mil    951.654mil   1070.866mil  T          0.00                
+Pad12      Pad_0.1_-_oct      807.654mil    349.866mil    807.654mil    349.866mil    807.654mil    349.866mil  T          0.00                
+Pad13      PAD               1095.653mil    349.866mil   1095.653mil    349.866mil   1095.653mil    349.866mil  T          0.00                
+LED4       LED1206           1681.535mil      530.4mil   1681.535mil      530.4mil    1650.04mil    475.847mil  T        240.00 APT3216SURCK   
+LED3       LED1206            226.536mil      531.4mil    226.536mil      531.4mil    258.032mil    476.847mil  T        300.00 APT3216SURCK   
+LED2       LED1206           1784.535mil      708.4mil   1784.535mil      708.4mil    1753.04mil    653.847mil  T        240.00 APT3216VBC/D   
+LED1       LED1206            124.535mil      711.4mil    124.535mil      711.4mil    156.032mil    656.847mil  T        300.00 APT3216VBC/D   
+J3         1778612           1524.716mil    734.292mil   1524.716mil    734.292mil   1352.472mil    435.957mil  T         60.00 1778612        
+U2         SOT89-150P347X160-3L    760.543mil   1678.508mil    701.488mil   1678.508mil    758.575mil   1619.453mil  T        180.00 L78L05ABUTR    
+C3         C0603                  845mil   1618.937mil        845mil   1618.937mil    818.228mil   1618.937mil  T        360.00 100nF          
+C1         C0805                  859mil   1766.638mil        859mil   1766.937mil        859mil   1804.339mil  T        270.00 10uF           
+FID2       FIDUCIAL-2X3-PANEL       1674mil   1295.937mil       1674mil   1295.937mil       1674mil   1295.937mil  T         45.00 FIDUCIAL       
+FID1       FIDUCIAL-2X3-PANEL        111mil   1067.937mil        111mil   1067.937mil        111mil   1067.937mil  T         45.00 FIDUCIAL       
+J2         644456-2           513.655mil    646.864mil    532.268mil    616.327mil    538.655mil    603.562mil  T        120.00 644456-2       
+R5         R0805              953.055mil    518.866mil    953.055mil    518.866mil    916.638mil    518.866mil  T          0.00 2.7K           
+R4         R0805              953.055mil    593.866mil    953.055mil    593.866mil    916.638mil    593.866mil  T          0.00 4.7K           
+R3         R0805             1169.512mil    506.366mil   1169.512mil    506.366mil   1169.512mil    469.949mil  T         90.00 470            
+R2         R0805              827.512mil    518.866mil    827.512mil    518.866mil    791.095mil    518.866mil  T        360.00 2.7K           
+R1         R0805              827.512mil    593.866mil    827.512mil    593.866mil    791.095mil    593.866mil  T        360.00 4.7K           
+J1         644456-2           365.655mil    901.864mil    384.268mil    871.327mil    390.655mil    858.562mil  T        120.00 644456-2       
+C2         C0603                 1346mil   1587.937mil       1346mil   1587.937mil   1319.228mil   1587.937mil  T        360.00 100nF          
+C6         C0603                 1346mil   1651.937mil       1346mil   1651.937mil   1319.228mil   1651.937mil  T        360.00 100nF          
+Q1         SOT23-3           1005.811mil   1763.681mil   1005.512mil   1761.366mil     968.11mil   1721.996mil  T        360.00 BSN20BKR       
+Q2         SOT23-3            994.685mil   1498.236mil        997mil   1497.937mil    1036.37mil   1460.535mil  T         90.00 BSN20BKR       
+Q3         SOT23-3           1147.811mil   1768.681mil   1147.512mil   1766.366mil    1110.11mil   1726.996mil  T        360.00 BSN20BKR       
+R10        R0603             1024.509mil   1869.363mil   1024.512mil   1869.366mil    1051.28mil   1869.363mil  T        180.00 1K             
+R6         R0603             1093.509mil   1533.798mil   1093.512mil   1533.795mil   1093.509mil   1507.027mil  T         90.00 1K             
+R7         R0603              981.509mil   1661.338mil    981.512mil   1661.341mil    1008.28mil   1661.338mil  T        180.00 1K             
+R8         R0603              980.997mil   1594.934mil        981mil   1594.937mil   1007.769mil   1594.934mil  T        180.00 1K             
+R9         R0603              941.509mil   1853.369mil    941.512mil   1853.366mil    941.509mil   1826.598mil  T         90.00 1K             
+C7         C0805                  850mil   1499.638mil        850mil   1499.937mil        850mil   1537.339mil  T        270.00 10uF           
+C8         C0603                  650mil   1347.937mil        650mil   1347.937mil    623.228mil   1347.937mil  T        360.00 22uF           
+U3         SOT89-150P347X160-3L    761.228mil   1477.524mil    702.173mil   1477.524mil     759.26mil   1418.468mil  T        180.00 AZ1117CR-3.3TRG1
+R11        R0603             1154.997mil   1607.369mil       1155mil   1607.366mil   1154.997mil   1580.598mil  T         90.00 1K             
+R12        R0603             1154.997mil   1502.369mil       1155mil   1502.366mil   1154.997mil   1475.598mil  T         90.00 R0603TBD       
+U1         LGA12C50P4X4_200X200X100       1239mil   1597.937mil       1239mil   1597.937mil   1209.472mil   1626.992mil  T          0.00 IIS2DHTR       
+Hole1      Hole_Hole(Primary)   2463.638mil   1424.866mil   2463.638mil   1424.866mil   2463.638mil   1424.866mil  T          0.00                
+Hole2      Hole_Hole_1(Primary)   3691.638mil   1424.866mil   3691.638mil   1424.866mil   3691.638mil   1424.866mil  T          0.00                
+Hole3      Hole_Hole_2(Primary)   3077.638mil    361.866mil   3077.638mil    361.866mil   3077.638mil    361.866mil  T          0.00                
+Pad9       PAD               2595.638mil   1201.866mil   2595.638mil   1201.866mil   2595.638mil   1201.866mil  T          0.00                
+Pad10      PAD               3561.638mil   1201.866mil   3561.638mil   1201.866mil   3561.638mil   1201.866mil  T          0.00                
+Pad11      PAD_0.1-HOTEND    3077.638mil   1070.866mil   3077.638mil   1070.866mil   3077.638mil   1070.866mil  T          0.00                
+Pad12      Pad_0.1_-_oct     2933.638mil    349.866mil   2933.638mil    349.866mil   2933.638mil    349.866mil  T          0.00                
+Pad13      PAD               3221.638mil    349.866mil   3221.638mil    349.866mil   3221.638mil    349.866mil  T          0.00                
+LED4       LED1206            3807.52mil      530.4mil    3807.52mil      530.4mil   3776.024mil    475.847mil  T        240.00 APT3216SURCK   
+LED3       LED1206            2352.52mil      531.4mil    2352.52mil      531.4mil   2384.016mil    476.847mil  T        300.00 APT3216SURCK   
+LED2       LED1206            3910.52mil      708.4mil    3910.52mil      708.4mil   3879.024mil    653.847mil  T        240.00 APT3216VBC/D   
+LED1       LED1206            2250.52mil      711.4mil    2250.52mil      711.4mil   2282.016mil    656.847mil  T        300.00 APT3216VBC/D   
+J3         1778612           3650.701mil    734.292mil   3650.701mil    734.292mil   3478.457mil    435.957mil  T         60.00 1778612        
+U2         SOT89-150P347X160-3L   2886.528mil   1678.508mil   2827.472mil   1678.508mil   2884.559mil   1619.453mil  T        180.00 L78L05ABUTR    
+C3         C0603             2970.984mil   1618.937mil   2970.984mil   1618.937mil   2944.213mil   1618.937mil  T        360.00 100nF          
+C1         C0805             2984.984mil   1766.638mil   2984.984mil   1766.937mil   2984.984mil   1804.339mil  T        270.00 10uF           
+FID2       FIDUCIAL-2X3-PANEL   3799.984mil   1295.937mil   3799.984mil   1295.937mil   3799.984mil   1295.937mil  T         45.00 FIDUCIAL       
+FID1       FIDUCIAL-2X3-PANEL   2236.984mil   1067.937mil   2236.984mil   1067.937mil   2236.984mil   1067.937mil  T         45.00 FIDUCIAL       
+J2         644456-2           2639.64mil    646.864mil   2658.252mil    616.327mil    2664.64mil    603.562mil  T        120.00 644456-2       
+R5         R0805             3079.039mil    518.866mil   3079.039mil    518.866mil   3042.622mil    518.866mil  T          0.00 2.7K           
+R4         R0805             3079.039mil    593.866mil   3079.039mil    593.866mil   3042.622mil    593.866mil  T          0.00 4.7K           
+R3         R0805             3295.496mil    506.366mil   3295.496mil    506.366mil   3295.496mil    469.949mil  T         90.00 470            
+R2         R0805             2953.496mil    518.866mil   2953.496mil    518.866mil   2917.079mil    518.866mil  T        360.00 2.7K           
+R1         R0805             2953.496mil    593.866mil   2953.496mil    593.866mil   2917.079mil    593.866mil  T        360.00 4.7K           
+J1         644456-2           2491.64mil    901.864mil   2510.252mil    871.327mil    2516.64mil    858.562mil  T        120.00 644456-2       
+C2         C0603             3471.984mil   1587.937mil   3471.984mil   1587.937mil   3445.213mil   1587.937mil  T        360.00 100nF          
+C6         C0603             3471.984mil   1651.937mil   3471.984mil   1651.937mil   3445.213mil   1651.937mil  T        360.00 100nF          
+Q1         SOT23-3           3131.795mil   1763.681mil   3131.496mil   1761.366mil   3094.094mil   1721.996mil  T        360.00 BSN20BKR       
+Q2         SOT23-3           3120.669mil   1498.236mil   3122.984mil   1497.937mil   3162.354mil   1460.535mil  T         90.00 BSN20BKR       
+Q3         SOT23-3           3273.795mil   1768.681mil   3273.496mil   1766.366mil   3236.094mil   1726.996mil  T        360.00 BSN20BKR       
+R10        R0603             3150.493mil   1869.363mil   3150.496mil   1869.366mil   3177.265mil   1869.363mil  T        180.00 1K             
+R6         R0603             3219.493mil   1533.798mil   3219.496mil   1533.795mil   3219.493mil   1507.027mil  T         90.00 1K             
+R7         R0603             3107.493mil   1661.338mil   3107.496mil   1661.341mil   3134.265mil   1661.338mil  T        180.00 1K             
+R8         R0603             3106.981mil   1594.934mil   3106.984mil   1594.937mil   3133.753mil   1594.934mil  T        180.00 1K             
+R9         R0603             3067.493mil   1853.369mil   3067.496mil   1853.366mil   3067.493mil   1826.598mil  T         90.00 1K             
+C7         C0805             2975.984mil   1499.638mil   2975.984mil   1499.937mil   2975.984mil   1537.339mil  T        270.00 10uF           
+C8         C0603             2775.984mil   1347.937mil   2775.984mil   1347.937mil   2749.213mil   1347.937mil  T        360.00 22uF           
+U3         SOT89-150P347X160-3L   2887.213mil   1477.524mil   2828.157mil   1477.524mil   2885.244mil   1418.468mil  T        180.00 AZ1117CR-3.3TRG1
+R11        R0603             3280.981mil   1607.369mil   3280.984mil   1607.366mil   3280.981mil   1580.598mil  T         90.00 1K             
+R12        R0603             3280.981mil   1502.369mil   3280.984mil   1502.366mil   3280.981mil   1475.598mil  T         90.00 R0603TBD       
+U1         LGA12C50P4X4_200X200X100   3364.984mil   1597.937mil   3364.984mil   1597.937mil   3335.457mil   1626.992mil  T          0.00 IIS2DHTR       
+Hole1      Hole_Hole(Primary)   4589.622mil   1424.866mil   4589.622mil   1424.866mil   4589.622mil   1424.866mil  T          0.00                
+Hole2      Hole_Hole_1(Primary)   5817.622mil   1424.866mil   5817.622mil   1424.866mil   5817.622mil   1424.866mil  T          0.00                
+Hole3      Hole_Hole_2(Primary)   5203.622mil    361.866mil   5203.622mil    361.866mil   5203.622mil    361.866mil  T          0.00                
+Pad9       PAD               4721.622mil   1201.866mil   4721.622mil   1201.866mil   4721.622mil   1201.866mil  T          0.00                
+Pad10      PAD               5687.622mil   1201.866mil   5687.622mil   1201.866mil   5687.622mil   1201.866mil  T          0.00                
+Pad11      PAD_0.1-HOTEND    5203.622mil   1070.866mil   5203.622mil   1070.866mil   5203.622mil   1070.866mil  T          0.00                
+Pad12      Pad_0.1_-_oct     5059.622mil    349.866mil   5059.622mil    349.866mil   5059.622mil    349.866mil  T          0.00                
+Pad13      PAD               5347.622mil    349.866mil   5347.622mil    349.866mil   5347.622mil    349.866mil  T          0.00                
+LED4       LED1206           5933.504mil      530.4mil   5933.504mil      530.4mil   5902.008mil    475.847mil  T        240.00 APT3216SURCK   
+LED3       LED1206           4478.504mil      531.4mil   4478.504mil      531.4mil       4510mil    476.847mil  T        300.00 APT3216SURCK   
+LED2       LED1206           6036.504mil      708.4mil   6036.504mil      708.4mil   6005.008mil    653.847mil  T        240.00 APT3216VBC/D   
+LED1       LED1206           4376.504mil      711.4mil   4376.504mil      711.4mil       4408mil    656.847mil  T        300.00 APT3216VBC/D   
+J3         1778612           5776.685mil    734.292mil   5776.685mil    734.292mil   5604.441mil    435.957mil  T         60.00 1778612        
+U2         SOT89-150P347X160-3L   5012.512mil   1678.508mil   4953.457mil   1678.508mil   5010.543mil   1619.453mil  T        180.00 L78L05ABUTR    
+C3         C0603             5096.969mil   1618.937mil   5096.969mil   1618.937mil   5070.197mil   1618.937mil  T        360.00 100nF          
+C1         C0805             5110.969mil   1766.638mil   5110.969mil   1766.937mil   5110.969mil   1804.339mil  T        270.00 10uF           
+FID2       FIDUCIAL-2X3-PANEL   5925.969mil   1295.937mil   5925.969mil   1295.937mil   5925.969mil   1295.937mil  T         45.00 FIDUCIAL       
+FID1       FIDUCIAL-2X3-PANEL   4362.969mil   1067.937mil   4362.969mil   1067.937mil   4362.969mil   1067.937mil  T         45.00 FIDUCIAL       
+J2         644456-2          4765.624mil    646.864mil   4784.236mil    616.327mil   4790.624mil    603.562mil  T        120.00 644456-2       
+R5         R0805             5205.024mil    518.866mil   5205.024mil    518.866mil   5168.606mil    518.866mil  T          0.00 2.7K           
+R4         R0805             5205.024mil    593.866mil   5205.024mil    593.866mil   5168.606mil    593.866mil  T          0.00 4.7K           
+R3         R0805              5421.48mil    506.366mil    5421.48mil    506.366mil    5421.48mil    469.949mil  T         90.00 470            
+R2         R0805              5079.48mil    518.866mil    5079.48mil    518.866mil   5043.063mil    518.866mil  T        360.00 2.7K           
+R1         R0805              5079.48mil    593.866mil    5079.48mil    593.866mil   5043.063mil    593.866mil  T        360.00 4.7K           
+J1         644456-2          4617.624mil    901.864mil   4636.236mil    871.327mil   4642.624mil    858.562mil  T        120.00 644456-2       
+C2         C0603             5597.969mil   1587.937mil   5597.969mil   1587.937mil   5571.197mil   1587.937mil  T        360.00 100nF          
+C6         C0603             5597.969mil   1651.937mil   5597.969mil   1651.937mil   5571.197mil   1651.937mil  T        360.00 100nF          
+Q1         SOT23-3           5257.779mil   1763.681mil    5257.48mil   1761.366mil   5220.078mil   1721.996mil  T        360.00 BSN20BKR       
+Q2         SOT23-3           5246.654mil   1498.236mil   5248.969mil   1497.937mil   5288.339mil   1460.535mil  T         90.00 BSN20BKR       
+Q3         SOT23-3           5399.779mil   1768.681mil    5399.48mil   1766.366mil   5362.078mil   1726.996mil  T        360.00 BSN20BKR       
+R10        R0603             5276.477mil   1869.363mil    5276.48mil   1869.366mil   5303.249mil   1869.363mil  T        180.00 1K             
+R6         R0603             5345.477mil   1533.798mil    5345.48mil   1533.795mil   5345.477mil   1507.027mil  T         90.00 1K             
+R7         R0603             5233.477mil   1661.338mil    5233.48mil   1661.341mil   5260.249mil   1661.338mil  T        180.00 1K             
+R8         R0603             5232.965mil   1594.934mil   5232.969mil   1594.937mil   5259.737mil   1594.934mil  T        180.00 1K             
+R9         R0603             5193.477mil   1853.369mil    5193.48mil   1853.366mil   5193.477mil   1826.598mil  T         90.00 1K             
+C7         C0805             5101.969mil   1499.638mil   5101.969mil   1499.937mil   5101.969mil   1537.339mil  T        270.00 10uF           
+C8         C0603             4901.969mil   1347.937mil   4901.969mil   1347.937mil   4875.197mil   1347.937mil  T        360.00 22uF           
+U3         SOT89-150P347X160-3L   5013.197mil   1477.524mil   4954.142mil   1477.524mil   5011.228mil   1418.468mil  T        180.00 AZ1117CR-3.3TRG1
+R11        R0603             5406.965mil   1607.369mil   5406.969mil   1607.366mil   5406.965mil   1580.598mil  T         90.00 1K             
+R12        R0603             5406.965mil   1502.369mil   5406.969mil   1502.366mil   5406.965mil   1475.598mil  T         90.00 R0603TBD       
+U1         LGA12C50P4X4_200X200X100   5490.968mil   1597.937mil   5490.969mil   1597.937mil   5461.441mil   1626.992mil  T          0.00 IIS2DHTR       
+Hole1      Hole_Hole(Primary)   6715.606mil   1424.866mil   6715.606mil   1424.866mil   6715.606mil   1424.866mil  T          0.00                
+Hole2      Hole_Hole_1(Primary)   7943.606mil   1424.866mil   7943.606mil   1424.866mil   7943.606mil   1424.866mil  T          0.00                
+Hole3      Hole_Hole_2(Primary)   7329.606mil    361.866mil   7329.606mil    361.866mil   7329.606mil    361.866mil  T          0.00                
+Pad9       PAD               6847.606mil   1201.866mil   6847.606mil   1201.866mil   6847.606mil   1201.866mil  T          0.00                
+Pad10      PAD               7813.606mil   1201.866mil   7813.606mil   1201.866mil   7813.606mil   1201.866mil  T          0.00                
+Pad11      PAD_0.1-HOTEND    7329.606mil   1070.866mil   7329.606mil   1070.866mil   7329.606mil   1070.866mil  T          0.00                
+Pad12      Pad_0.1_-_oct     7185.606mil    349.866mil   7185.606mil    349.866mil   7185.606mil    349.866mil  T          0.00                
+Pad13      PAD               7473.606mil    349.866mil   7473.606mil    349.866mil   7473.606mil    349.866mil  T          0.00                
+LED4       LED1206           8059.488mil      530.4mil   8059.488mil      530.4mil   8027.992mil    475.847mil  T        240.00 APT3216SURCK   
+LED3       LED1206           6604.488mil      531.4mil   6604.488mil      531.4mil   6635.984mil    476.847mil  T        300.00 APT3216SURCK   
+LED2       LED1206           8162.488mil      708.4mil   8162.488mil      708.4mil   8130.992mil    653.847mil  T        240.00 APT3216VBC/D   
+LED1       LED1206           6502.488mil      711.4mil   6502.488mil      711.4mil   6533.984mil    656.847mil  T        300.00 APT3216VBC/D   
+J3         1778612           7902.669mil    734.292mil   7902.669mil    734.292mil   7730.425mil    435.957mil  T         60.00 1778612        
+U2         SOT89-150P347X160-3L   7138.496mil   1678.508mil   7079.441mil   1678.508mil   7136.528mil   1619.453mil  T        180.00 L78L05ABUTR    
+C3         C0603             7222.953mil   1618.937mil   7222.953mil   1618.937mil   7196.181mil   1618.937mil  T        360.00 100nF          
+C1         C0805             7236.953mil   1766.638mil   7236.953mil   1766.937mil   7236.953mil   1804.339mil  T        270.00 10uF           
+FID2       FIDUCIAL-2X3-PANEL   8051.953mil   1295.937mil   8051.953mil   1295.937mil   8051.953mil   1295.937mil  T         45.00 FIDUCIAL       
+FID1       FIDUCIAL-2X3-PANEL   6488.953mil   1067.937mil   6488.953mil   1067.937mil   6488.953mil   1067.937mil  T         45.00 FIDUCIAL       
+J2         644456-2          6891.608mil    646.864mil   6910.221mil    616.327mil   6916.608mil    603.562mil  T        120.00 644456-2       
+R5         R0805             7331.008mil    518.866mil   7331.008mil    518.866mil   7294.591mil    518.866mil  T          0.00 2.7K           
+R4         R0805             7331.008mil    593.866mil   7331.008mil    593.866mil   7294.591mil    593.866mil  T          0.00 4.7K           
+R3         R0805             7547.465mil    506.366mil   7547.465mil    506.366mil   7547.465mil    469.949mil  T         90.00 470            
+R2         R0805             7205.465mil    518.866mil   7205.465mil    518.866mil   7169.047mil    518.866mil  T        360.00 2.7K           
+R1         R0805             7205.465mil    593.866mil   7205.465mil    593.866mil   7169.047mil    593.866mil  T        360.00 4.7K           
+J1         644456-2          6743.608mil    901.864mil   6762.221mil    871.327mil   6768.608mil    858.562mil  T        120.00 644456-2       
+C2         C0603             7723.953mil   1587.937mil   7723.953mil   1587.937mil   7697.181mil   1587.937mil  T        360.00 100nF          
+C6         C0603             7723.953mil   1651.937mil   7723.953mil   1651.937mil   7697.181mil   1651.937mil  T        360.00 100nF          
+Q1         SOT23-3           7383.764mil   1763.681mil   7383.465mil   1761.366mil   7346.063mil   1721.996mil  T        360.00 BSN20BKR       
+Q2         SOT23-3           7372.638mil   1498.236mil   7374.953mil   1497.937mil   7414.323mil   1460.535mil  T         90.00 BSN20BKR       
+Q3         SOT23-3           7525.764mil   1768.681mil   7525.465mil   1766.366mil   7488.063mil   1726.996mil  T        360.00 BSN20BKR       
+R10        R0603             7402.462mil   1869.363mil   7402.465mil   1869.366mil   7429.233mil   1869.363mil  T        180.00 1K             
+R6         R0603             7471.462mil   1533.798mil   7471.465mil   1533.795mil   7471.462mil   1507.027mil  T         90.00 1K             
+R7         R0603             7359.462mil   1661.338mil   7359.465mil   1661.341mil   7386.233mil   1661.338mil  T        180.00 1K             
+R8         R0603              7358.95mil   1594.934mil   7358.953mil   1594.937mil   7385.721mil   1594.934mil  T        180.00 1K             
+R9         R0603             7319.462mil   1853.369mil   7319.465mil   1853.366mil   7319.462mil   1826.598mil  T         90.00 1K             
+C7         C0805             7227.953mil   1499.638mil   7227.953mil   1499.937mil   7227.953mil   1537.339mil  T        270.00 10uF           
+C8         C0603             7027.953mil   1347.937mil   7027.953mil   1347.937mil   7001.181mil   1347.937mil  T        360.00 22uF           
+U3         SOT89-150P347X160-3L   7139.181mil   1477.524mil   7080.126mil   1477.524mil   7137.213mil   1418.468mil  T        180.00 AZ1117CR-3.3TRG1
+R11        R0603              7532.95mil   1607.369mil   7532.953mil   1607.366mil    7532.95mil   1580.598mil  T         90.00 1K             
+R12        R0603              7532.95mil   1502.369mil   7532.953mil   1502.366mil    7532.95mil   1475.598mil  T         90.00 R0603TBD       
+U1         LGA12C50P4X4_200X200X100   7616.953mil   1597.937mil   7616.953mil   1597.937mil   7587.425mil   1626.992mil  T          0.00 IIS2DHTR       
+

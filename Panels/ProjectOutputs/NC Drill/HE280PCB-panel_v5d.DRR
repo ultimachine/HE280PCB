@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: HE280PCB-panel.PcbDoc   5/12/2016  12:24:51 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : HE280PCB-panel_v5d.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             68        PTH        22.71inch (576.81mm)
+T2      19mil (0.485mm)                                           Round             36        PTH        8.39inch (213.05mm)
+T3      20mil (0.508mm)                                           Round             4         PTH        6.38inch (162.00mm)
+T4      30mil (0.762mm)                                           Round             8         PTH        6.49inch (164.90mm)
+T5      43mil (1.092mm)                                           Round             8         PTH        6.67inch (169.32mm)
+T6      43mil (1.1mm)                                             Round             48        PTH        11.88inch (301.86mm)
+T7      49mil (1.25mm)                                            Round             8         PTH        8.31inch (211.07mm)
+T8      138mil (3.5mm)                                            Round             8         PTH        13.98inch (355.18mm)
+T9      138mil (3.505mm)                                          Round             4         PTH        6.38inch (162.00mm)
+T10     284mil (7.201mm)                                          Round             4         PTH        6.38inch (162.00mm)
+T11     118mil (3mm)                                              Round             4         NPTH       18.09inch (459.49mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              200
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,44 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+Hole1      Hole_Hole(Primary)   -142.346mil   1170.929mil   -142.346mil   1170.929mil   -142.346mil   1170.929mil  T          0.00                
+Hole2      Hole_Hole_1(Primary)   1085.653mil   1170.929mil   1085.653mil   1170.929mil   1085.653mil   1170.929mil  T          0.00                
+Hole3      Hole_Hole_2(Primary)    471.654mil    107.929mil    471.654mil    107.929mil    471.654mil    107.929mil  T          0.00                
+Pad9       PAD                -10.347mil    947.929mil    -10.347mil    947.929mil    -10.347mil    947.929mil  T          0.00                
+Pad10      PAD                955.654mil    947.929mil    955.654mil    947.929mil    955.654mil    947.929mil  T          0.00                
+Pad11      PAD_0.1-HOTEND     471.654mil    816.929mil    471.654mil    816.929mil    471.654mil    816.929mil  T          0.00                
+Pad12      Pad_0.1_-_oct      327.654mil     95.929mil    327.654mil     95.929mil    327.654mil     95.929mil  T          0.00                
+Pad13      PAD                615.654mil     95.929mil    615.654mil     95.929mil    615.654mil     95.929mil  T          0.00                
+LED4       LED1206           1201.535mil    276.463mil   1201.535mil    276.463mil    1170.04mil     221.91mil  T        240.00 APT3216SURCK   
+LED3       LED1206           -253.464mil    277.463mil   -253.464mil    277.463mil   -221.968mil     222.91mil  T        300.00 APT3216SURCK   
+LED2       LED1206           1304.535mil    454.463mil   1304.535mil    454.463mil    1273.04mil     399.91mil  T        240.00 APT3216VBC/D   
+LED1       LED1206           -355.464mil    457.463mil   -355.464mil    457.463mil   -323.968mil     402.91mil  T        300.00 APT3216VBC/D   
+J3         1778612           1044.716mil    480.355mil   1044.716mil    480.355mil    872.472mil     182.02mil  T         60.00 1778612        
+U2         SOT89-150P347X160-3L    280.543mil   1424.571mil    221.488mil   1424.571mil    278.575mil   1365.516mil  T        180.00 L78L05ABUTR    
+C3         C0603                  365mil       1365mil        365mil       1365mil    338.228mil       1365mil  T        360.00 100nF          
+C1         C0805                  379mil   1512.701mil        379mil       1513mil        379mil   1550.402mil  T        270.00 10uF           
+FID2       FIDUCIAL-2X3-PANEL       1194mil       1042mil       1194mil       1042mil       1194mil       1042mil  T         45.00 FIDUCIAL       
+FID1       FIDUCIAL-2X3-PANEL       -369mil        814mil       -369mil        814mil       -369mil        814mil  T         45.00 FIDUCIAL       
+J2         644456-2            33.655mil    392.927mil     52.268mil     362.39mil     58.655mil    349.625mil  T        120.00 644456-2       
+R5         R0805              473.055mil    264.929mil    473.055mil    264.929mil    436.638mil    264.929mil  T          0.00 2.7K           
+R4         R0805              473.055mil    339.929mil    473.055mil    339.929mil    436.638mil    339.929mil  T          0.00 4.7K           
+R3         R0805              689.512mil    252.429mil    689.512mil    252.429mil    689.512mil    216.012mil  T         90.00 470            
+R2         R0805              347.512mil    264.929mil    347.512mil    264.929mil    311.094mil    264.929mil  T        360.00 2.7K           
+R1         R0805              347.512mil    339.929mil    347.512mil    339.929mil    311.094mil    339.929mil  T        360.00 4.7K           
+J1         644456-2          -114.345mil    647.927mil    -95.732mil     617.39mil    -89.345mil    604.625mil  T        120.00 644456-2       
+C2         C0603                  866mil       1334mil        866mil       1334mil    839.228mil       1334mil  T        360.00 100nF          
+C6         C0603                  866mil       1398mil        866mil       1398mil    839.228mil       1398mil  T        360.00 100nF          
+Q1         SOT23-3            525.811mil   1509.744mil    525.512mil   1507.429mil     488.11mil   1468.059mil  T        360.00 BSN20BKR       
+Q2         SOT23-3            514.685mil   1244.299mil        517mil       1244mil     556.37mil   1206.598mil  T         90.00 BSN20BKR       
+Q3         SOT23-3            667.811mil   1514.744mil    667.512mil   1512.429mil     630.11mil   1473.059mil  T        360.00 BSN20BKR       
+R10        R0603              544.509mil   1615.426mil    544.512mil   1615.429mil     571.28mil   1615.426mil  T        180.00 1K             
+R6         R0603              613.509mil   1279.861mil    613.512mil   1279.858mil    613.509mil    1253.09mil  T         90.00 1K             
+R7         R0603              501.509mil     1407.4mil    501.512mil   1407.404mil     528.28mil     1407.4mil  T        180.00 1K             
+R8         R0603              500.997mil   1340.997mil        501mil       1341mil    527.769mil   1340.997mil  T        180.00 1K             
+R9         R0603              461.509mil   1599.432mil    461.512mil   1599.429mil    461.509mil   1572.661mil  T         90.00 1K             
+C7         C0805                  370mil   1245.701mil        370mil       1246mil        370mil   1283.402mil  T        270.00 10uF           
+C8         C0603                  170mil       1094mil        170mil       1094mil    143.228mil       1094mil  T        360.00 22uF           
+U3         SOT89-150P347X160-3L    281.228mil   1223.586mil    222.173mil   1223.587mil     279.26mil   1164.531mil  T        180.00 AZ1117CR-3.3TRG1
+R11        R0603              674.997mil   1353.432mil        675mil   1353.429mil    674.997mil   1326.661mil  T         90.00 1K             
+R12        R0603              674.997mil   1248.432mil        675mil   1248.429mil    674.997mil   1221.661mil  T         90.00 R0603TBD       
+U1         LGA12C50P4X4_200X200X100        759mil       1344mil        759mil       1344mil    729.472mil   1373.055mil  T          0.00 IIS2DHTR       
+

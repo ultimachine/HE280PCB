@@ -1,0 +1,10 @@
+v5c
+4/512 with solder bridge under LGA.
+Possibly tweak the printer settings
+
+Vreg pads a little small? - enlarge stencil if changed
+
+trace not joined - already fixed in altium
+
+Stencil- enlarge PIP pads?
+
