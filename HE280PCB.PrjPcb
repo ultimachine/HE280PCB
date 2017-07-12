@@ -32,6 +32,7 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
+IncludeDesignInRelease=0
 
 [Preferences]
 PrefsVaultGUID=
@@ -89,7 +90,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IKTAFQDB
 
 [Document4]
-DocumentPath=HE280PCB.PcbLib
+DocumentPath=..\..\altium_libs\Libs.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,14 +104,14 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SYUXQNFJ
+DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=EFDBB508-1D81-42EF-A86D-83385FE23D9E
 Description=HE280PCB 3.3V
 AllowFabrication=1
 ParameterCount=0
-VariationCount=8
+VariationCount=9
 Variation1=Designator=Q3|UniqueId=\AJKVGYXX|Kind=1|AlternatePart= 
 Variation2=Designator=R10|UniqueId=\UTILWYXB|Kind=1|AlternatePart= 
 Variation3=Designator=Q1|UniqueId=\OQYFXGOL|Kind=1|AlternatePart= 
@@ -119,6 +120,19 @@ Variation5=Designator=R6|UniqueId=\CTFFYUTI|Kind=1|AlternatePart=
 Variation6=Designator=Q2|UniqueId=\EJYQYTTG|Kind=1|AlternatePart= 
 Variation7=Designator=R8|UniqueId=\OTAHNSMG|Kind=1|AlternatePart= 
 Variation8=Designator=R9|UniqueId=\NEFHXTDK|Kind=1|AlternatePart= 
+Variation9=Designator=R12|UniqueId=\DXSUDOJQ|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=9C556653-354F-493A-ABAE-3854E46F8C3B
+Description=HE280PCB 5V
+AllowFabrication=1
+ParameterCount=0
+VariationCount=4
+Variation1=Designator=R13|UniqueId=\JOVTUBQP|Kind=1|AlternatePart= 
+Variation2=Designator=R14|UniqueId=\MJPPJKVH|Kind=1|AlternatePart= 
+Variation3=Designator=R15|UniqueId=\MKCYJLJL|Kind=1|AlternatePart= 
+Variation4=Designator=R12|UniqueId=\DXSUDOJQ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -213,29 +227,33 @@ DItemRevisionGUID=
 DocumentPath=./ProjectOutputs\Pick Place\HE280PCB_v5d.txt
 DItemRevisionGUID=
 
+[GeneratedDocument24]
+DocumentPath=./ProjectOutputs\Report Board Stack\HE280PCB_v5d.xls
+DItemRevisionGUID=
+
 [Parameter1]
-Name=projectVersion
-Value=v5d
+Name=projectDesigner
+Value=UltiMachine
 
 [Parameter2]
-Name=projectTitle
-Value=HE280PCB
+Name=projectDesigner
+Value=UltiMachine
 
 [Parameter3]
-Name=projectDocumentRevision
-Value=1
-
-[Parameter4]
 Name=projectdocumentNumber
 Value=1
 
+[Parameter4]
+Name=projectDocumentRevision
+Value=1
+
 [Parameter5]
-Name=projectDesigner
-Value=UltiMachine
+Name=projectTitle
+Value=HE280PCB
 
 [Parameter6]
-Name=projectDesigner
-Value=UltiMachine
+Name=projectVersion
+Value=v5d
 
 [Configuration1]
 Name=Default Configuration
@@ -1372,7 +1390,7 @@ ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=
 ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Code Memory|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
