@@ -1,44 +1,64 @@
-Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+Altium Designer Pick and Place Locations
+C:\Users\Johnny-x-9c\Documents\Projects\SeeMeCNC\HE280PCBv2\./ProjectOutputs\Pick Place\HE280PCB_v5d.txt
 
-Hole1      Hole_Hole(Primary)   -142.346mil   1170.929mil   -142.346mil   1170.929mil   -142.346mil   1170.929mil  T          0.00                
-Hole2      Hole_Hole_1(Primary)   1085.653mil   1170.929mil   1085.653mil   1170.929mil   1085.653mil   1170.929mil  T          0.00                
-Hole3      Hole_Hole_2(Primary)    471.654mil    107.929mil    471.654mil    107.929mil    471.654mil    107.929mil  T          0.00                
-Pad9       PAD                -10.347mil    947.929mil    -10.347mil    947.929mil    -10.347mil    947.929mil  T          0.00                
-Pad10      PAD                955.654mil    947.929mil    955.654mil    947.929mil    955.654mil    947.929mil  T          0.00                
-Pad11      PAD_0.1-HOTEND     471.654mil    816.929mil    471.654mil    816.929mil    471.654mil    816.929mil  T          0.00                
-Pad12      Pad_0.1_-_oct      327.654mil     95.929mil    327.654mil     95.929mil    327.654mil     95.929mil  T          0.00                
-Pad13      PAD                615.654mil     95.929mil    615.654mil     95.929mil    615.654mil     95.929mil  T          0.00                
-LED4       LED1206           1201.535mil    276.463mil   1201.535mil    276.463mil    1170.04mil     221.91mil  T        240.00 APT3216SURCK   
-LED3       LED1206           -253.464mil    277.463mil   -253.464mil    277.463mil   -221.968mil     222.91mil  T        300.00 APT3216SURCK   
-LED2       LED1206           1304.535mil    454.463mil   1304.535mil    454.463mil    1273.04mil     399.91mil  T        240.00 APT3216VBC/D   
-LED1       LED1206           -355.464mil    457.463mil   -355.464mil    457.463mil   -323.968mil     402.91mil  T        300.00 APT3216VBC/D   
-J3         1778612           1044.716mil    480.355mil   1044.716mil    480.355mil    872.472mil     182.02mil  T         60.00 1778612        
-U2         SOT89-150P347X160-3L    280.543mil   1424.571mil    221.488mil   1424.571mil    278.575mil   1365.516mil  T        180.00 L78L05ABUTR    
-C3         C0603                  365mil       1365mil        365mil       1365mil    338.228mil       1365mil  T        360.00 100nF          
-C1         C0805                  379mil   1512.701mil        379mil       1513mil        379mil   1550.402mil  T        270.00 10uF           
-FID2       FIDUCIAL-2X3-PANEL       1194mil       1042mil       1194mil       1042mil       1194mil       1042mil  T         45.00 FIDUCIAL       
-FID1       FIDUCIAL-2X3-PANEL       -369mil        814mil       -369mil        814mil       -369mil        814mil  T         45.00 FIDUCIAL       
-J2         644456-2            33.655mil    392.927mil     52.268mil     362.39mil     58.655mil    349.625mil  T        120.00 644456-2       
-R5         R0805              473.055mil    264.929mil    473.055mil    264.929mil    436.638mil    264.929mil  T          0.00 2.7K           
-R4         R0805              473.055mil    339.929mil    473.055mil    339.929mil    436.638mil    339.929mil  T          0.00 4.7K           
-R3         R0805              689.512mil    252.429mil    689.512mil    252.429mil    689.512mil    216.012mil  T         90.00 470            
-R2         R0805              347.512mil    264.929mil    347.512mil    264.929mil    311.094mil    264.929mil  T        360.00 2.7K           
-R1         R0805              347.512mil    339.929mil    347.512mil    339.929mil    311.094mil    339.929mil  T        360.00 4.7K           
-J1         644456-2          -114.345mil    647.927mil    -95.732mil     617.39mil    -89.345mil    604.625mil  T        120.00 644456-2       
-C2         C0603                  866mil       1334mil        866mil       1334mil    839.228mil       1334mil  T        360.00 100nF          
-C6         C0603                  866mil       1398mil        866mil       1398mil    839.228mil       1398mil  T        360.00 100nF          
-Q1         SOT23-3            525.811mil   1509.744mil    525.512mil   1507.429mil     488.11mil   1468.059mil  T        360.00 BSN20BKR       
-Q2         SOT23-3            514.685mil   1244.299mil        517mil       1244mil     556.37mil   1206.598mil  T         90.00 BSN20BKR       
-Q3         SOT23-3            667.811mil   1514.744mil    667.512mil   1512.429mil     630.11mil   1473.059mil  T        360.00 BSN20BKR       
-R10        R0603              544.509mil   1615.426mil    544.512mil   1615.429mil     571.28mil   1615.426mil  T        180.00 1K             
-R6         R0603              613.509mil   1279.861mil    613.512mil   1279.858mil    613.509mil    1253.09mil  T         90.00 1K             
-R7         R0603              501.509mil     1407.4mil    501.512mil   1407.404mil     528.28mil     1407.4mil  T        180.00 1K             
-R8         R0603              500.997mil   1340.997mil        501mil       1341mil    527.769mil   1340.997mil  T        180.00 1K             
-R9         R0603              461.509mil   1599.432mil    461.512mil   1599.429mil    461.509mil   1572.661mil  T         90.00 1K             
-C7         C0805                  370mil   1245.701mil        370mil       1246mil        370mil   1283.402mil  T        270.00 10uF           
-C8         C0603                  170mil       1094mil        170mil       1094mil    143.228mil       1094mil  T        360.00 22uF           
-U3         SOT89-150P347X160-3L    281.228mil   1223.586mil    222.173mil   1223.587mil     279.26mil   1164.531mil  T        180.00 AZ1117CR-3.3TRG1
-R11        R0603              674.997mil   1353.432mil        675mil   1353.429mil    674.997mil   1326.661mil  T         90.00 1K             
-R12        R0603              674.997mil   1248.432mil        675mil   1248.429mil    674.997mil   1221.661mil  T         90.00 R0603TBD       
-U1         LGA12C50P4X4_200X200X100        759mil       1344mil        759mil       1344mil    729.472mil   1373.055mil  T          0.00 IIS2DHTR       
+========================================================================================================================
+File Design Information:
 
+Date:       11/07/17
+Time:       22:40
+Revision:   Not in VersionControl
+Variant:    HE280PCB 5V
+Units used: mil
+
+Designator Comment            Layer       Footprint                Center-X(mil) Center-Y(mil) Rotation Description                                
+H6         Hole_3.5mm         TopLayer    Hole_3.5mm               471.654       107.929       360      ""                                         
+H5         Hole_3.5mm         TopLayer    Hole_3.5mm               -142.346      1170.929      360      ""                                         
+H4         Hole_3.5mm         TopLayer    Hole_3.5mm               1085.653      1170.929      360      ""                                         
+J5         B2B-PH-K-S(LF)(SN) TopLayer    B2B-PH-K-S(LF)(SN)       83.000        498.000       120      "Conn JST 2 position"                      
+J4         B2B-PH-K-S(LF)(SN) TopLayer    B2B-PH-K-S(LF)(SN)       -43.000       713.000       120      "Conn JST 2 position"                      
+C4         100nF              TopLayer    C0603                    102.000       1152.000      90       "CAP CER 0603 100nF 50V 10% X7R"           
+LED5       "LED-Hot End"      TopLayer    HE_LED                   471.654       95.929        360      ""                                         
+U1         IIS2DHTR           TopLayer    LGA12C50P4X4_200X200X100 759.000       1344.000      360      "3-axis accelerometer with digital output" 
+R11        1K                 TopLayer    R0603                    674.997       1353.432      90       "RES 0603 1K 100mW 1%"                     
+U3         L78L33ACUTR        TopLayer    SOT89-150P347X160-3L     281.055       1214.000      180      "IC REG LDO 3.3V 0.1A SOT89-3"             
+C7         1uF                TopLayer    C0805                    370.000       1245.701      270      "CAP CER 0805 1uF 50V 10% X7R"             
+R9         1K                 TopLayer    R0603                    461.509       1599.432      90       "RES 0603 1K 100mW 1%"                     
+R8         1K                 TopLayer    R0603                    500.997       1340.997      180      "RES 0603 1K 100mW 1%"                     
+R7         1K                 TopLayer    R0603                    501.509       1407.400      180      "RES 0603 1K 100mW 1%"                     
+R6         1K                 TopLayer    R0603                    613.509       1279.861      90       "RES 0603 1K 100mW 1%"                     
+R10        1K                 TopLayer    R0603                    544.509       1615.426      180      "RES 0603 1K 100mW 1%"                     
+Q3         BSN20BKR           TopLayer    SOT23-3                  814.771       1513.685      360      "MOSFET N-CH 60V 0.265A SOT-23"            
+Q2         BSN20BKR           TopLayer    SOT23-3                  514.685       1244.299      90       "MOSFET N-CH 60V 0.265A SOT-23"            
+Q1         BSN20BKR           TopLayer    SOT23-3                  525.811       1509.744      360      "MOSFET N-CH 60V 0.265A SOT-23"            
+C6         100nF              TopLayer    C0603                    866.000       1398.000      360      "CAP CER 0603 100nF 50V 10% X7R"           
+C2         100nF              TopLayer    C0603                    866.000       1334.000      360      "CAP CER 0603 100nF 50V 10% X7R"           
+J1         B2B-PH-K-S(LF)(SN) TopLayer    B2B-PH-K-S(LF)(SN)       -205.000      618.000       120      "Conn JST 2 position"                      
+R1         4.7K               TopLayer    R0805                    347.512       412.929       360      "RES SMD 4.7K OHM 5% 1/8W 0805"            
+R2         2.7K               TopLayer    R0805                    347.512       337.929       360      "RES SMD 2.7K OHM 5% 1/8W 0805"            
+R3         470                TopLayer    R0805                    347.512       264.929       180      "RES SMD 470 OHM 5% 1/8W 0805"             
+R4         4.7K               TopLayer    R0805                    473.055       339.929       360      "RES SMD 4.7K OHM 5% 1/8W 0805"            
+R5         2.7K               TopLayer    R0805                    473.055       264.929       360      "RES SMD 2.7K OHM 5% 1/8W 0805"            
+J2         B2B-PH-K-S(LF)(SN) TopLayer    B2B-PH-K-S(LF)(SN)       -78.000       404.000       120      "Conn JST 2 position"                      
+FID1       FIDUCIAL           TopLayer    FIDUCIAL-2X3-PANEL       -369.000      814.000       45       Fiducial                                   
+FID2       FIDUCIAL           TopLayer    FIDUCIAL-2X3-PANEL       1194.000      1042.000      45       Fiducial                                   
+C1         1uF                TopLayer    C0805                    379.000       1512.701      270      "CAP CER 0805 1uF 50V 10% X7R"             
+C3         100nF              TopLayer    C0603                    365.000       1365.000      360      "CAP CER 0603 100nF 50V 10% X7R"           
+U2         L78L05ABUTR        TopLayer    SOT89-150P347X160-3L     280.055       1487.000      180      "IC REG LDO 5V 0.1A SOT89-3"               
+J3         1778612            TopLayer    1778612                  1044.716      480.355       60       "Conn 2.5mm Pin in Paste Phoenix"          
+LED1       APT3216VBC/D       TopLayer    LED1206                  -355.464      457.463       300      "LED BLUE CLEAR 1206 SMD"                  
+LED2       APT3216VBC/D       TopLayer    LED1206                  1304.535      454.463       240      "LED BLUE CLEAR 1206 SMD"                  
+LED3       APT3216SURCK       TopLayer    LED1206                  -253.464      277.463       300      "LED RED CLEAR 1206 SMD"                   
+LED4       APT3216SURCK       TopLayer    LED1206                  1201.535      276.463       240      "LED RED CLEAR 1206 SMD"                   
+H1         "SeeMe Hot End"    TopLayer    PAD_0.1-HOTEND           471.654       816.929       360      ""                                         
+H3         "PTH 49mil"        TopLayer    PTH_49mil                955.654       947.929       360      ""                                         
+H2         "PTH 49mil"        TopLayer    PTH_49mil                -10.347       947.929       360      ""                                         
+C5         100nF              TopLayer    C0603                    967.000       711.000       240      "CAP CER 0603 100nF 50V 10% X7R"           
+C8         10uF               TopLayer    C0805                    229.000       1351.000      180      "CAP CER 10UF 16V X5R 0805"                
+D1         SK310A-TP          TopLayer    SMA-SM                   786.074       513.106       55       "DIODE Schottky 3A SMA"                    
+R16        100R               TopLayer    R0402                    696.051       1144.000      360      "RES SMD 100 OHM 1% 1/16W 0402"            
+R17        100R               TopLayer    R0402                    785.000       1115.949      270      "RES SMD 100 OHM 1% 1/16W 0402"            
+R18        100R               TopLayer    R0402                    1126.000      937.949       270      "RES SMD 100 OHM 1% 1/16W 0402"            
+FB1        120R               TopLayer    FB0603                   1022.000      795.000       60       "FERRITE BEAD 120 OHM 0402 1LN"            
+FID3       FIDUCIAL           BottomLayer FIDUCIAL-2x3-Panel       1194.000      1042.000      135      Fiducial                                   
+FID4       FIDUCIAL           BottomLayer FIDUCIAL-2x3-Panel       -369.000      814.000       45       Fiducial                                   
+J7         B2B-PH-K-S(LF)(SN) BottomLayer B2B-PH-K-S(LF)(SN)       158.000       261.000       270      "Conn JST 2 position"                      

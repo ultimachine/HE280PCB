@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [HE280PCB 5V] of PCB Document [HE280PCB.PcbDoc]
+   Generated File[HE280PCB_v5d.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:40:35 PM On 7/11/2017
