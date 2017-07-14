@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: HE280PCB.PcbDoc   7/14/2017  10:23:42 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer, Top to Bottom Layer, Bottom
+ASCII RoundHoles File : HE280PCB_6a.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             17        PTH        4.78inch (121.46mm)
+T2      19mil (0.485mm)                                           Round             5         PTH        0.36inch (9.04mm)
+T3      30mil (0.77mm)                                            Round             14        PTH        2.91inch (73.80mm)
+T4      43mil (1.092mm)                                           Round             2         PTH        0.29inch (7.32mm)
+T5      43mil (1.1mm)                                             Round             8         PTH        0.69inch (17.50mm)
+T6      49mil (1.25mm)                                            Round             2         PTH        0.97inch (24.54mm)
+T7      138mil (3.5mm)                                            Round             3         PTH        2.46inch (62.37mm)
+T8      284mil (7.201mm)                                          Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              52
+
+Total Processing Time (hh:mm:ss) : 00:00:00
