@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for HE280PCB
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -111,7 +111,7 @@ UniqueID=EFDBB508-1D81-42EF-A86D-83385FE23D9E
 Description=HE280PCB 3.3V
 AllowFabrication=1
 ParameterCount=0
-VariationCount=9
+VariationCount=12
 Variation1=Designator=Q3|UniqueId=\AJKVGYXX|Kind=1|AlternatePart= 
 Variation2=Designator=R10|UniqueId=\UTILWYXB|Kind=1|AlternatePart= 
 Variation3=Designator=Q1|UniqueId=\OQYFXGOL|Kind=1|AlternatePart= 
@@ -121,6 +121,9 @@ Variation6=Designator=Q2|UniqueId=\EJYQYTTG|Kind=1|AlternatePart=
 Variation7=Designator=R8|UniqueId=\OTAHNSMG|Kind=1|AlternatePart= 
 Variation8=Designator=R9|UniqueId=\NEFHXTDK|Kind=1|AlternatePart= 
 Variation9=Designator=R12|UniqueId=\DXSUDOJQ|Kind=1|AlternatePart= 
+Variation10=Designator=J6|UniqueId=\CPWPDXNJ|Kind=1|AlternatePart= 
+Variation11=Designator=J7|UniqueId=\KHFVSYED|Kind=1|AlternatePart= 
+Variation12=Designator=J8|UniqueId=\CTSRVMLH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -128,11 +131,14 @@ UniqueID=9C556653-354F-493A-ABAE-3854E46F8C3B
 Description=HE280PCB 5V
 AllowFabrication=1
 ParameterCount=0
-VariationCount=4
+VariationCount=7
 Variation1=Designator=R13|UniqueId=\JOVTUBQP|Kind=1|AlternatePart= 
 Variation2=Designator=R14|UniqueId=\MJPPJKVH|Kind=1|AlternatePart= 
 Variation3=Designator=R15|UniqueId=\MKCYJLJL|Kind=1|AlternatePart= 
 Variation4=Designator=R12|UniqueId=\DXSUDOJQ|Kind=1|AlternatePart= 
+Variation5=Designator=J7|UniqueId=\KHFVSYED|Kind=1|AlternatePart= 
+Variation6=Designator=J6|UniqueId=\CPWPDXNJ|Kind=1|AlternatePart= 
+Variation7=Designator=J8|UniqueId=\CTSRVMLH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -140,124 +146,224 @@ DocumentPath=Project Outputs for HE280PCB\Design Rule Check - HE280PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=./ProjectOutputs\BOM\HE280PCB_v5d.csv
+DocumentPath=./ProjectOutputs\BOM\HE280PCB_6a.csv
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=./ProjectOutputs\NC Drill\HE280PCB_v5d.DRR
+DocumentPath=./ProjectOutputs\NC Drill\HE280PCB_6a.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.EXTREP
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_6a.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GBL
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_6a.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GBO
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_6a.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GBP
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_6a.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GBS
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_6a.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GD1
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_6a.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GG1
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_6a.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GM1
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_6a.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GM2
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_6a.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GM8
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_6a.GM8
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GM15
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_6a.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GTL
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_6a.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GTO
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_6a.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GTP
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_6a.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GTS
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_6a.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=./ProjectOutputs\NC Drill\HE280PCB_v5d.LDP
+DocumentPath=./ProjectOutputs\NC Drill\HE280PCB_6a.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.REP
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_6a.REP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=./ProjectOutputs\ExportSTEP\HE280PCB_v5d.step
+DocumentPath=./ProjectOutputs\ExportSTEP\HE280PCB_6a.step
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=./ProjectOutputs\BOM\HE280PCB_v5d.txt
+DocumentPath=./ProjectOutputs\BOM\HE280PCB_6a.txt
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=./ProjectOutputs\NC Drill\HE280PCB_v5d.TXT
+DocumentPath=./ProjectOutputs\NC Drill\HE280PCB_6a.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=./ProjectOutputs\Pick Place\HE280PCB_v5d.txt
+DocumentPath=./ProjectOutputs\Pick Place\HE280PCB_6a.txt
 DItemRevisionGUID=
 
 [GeneratedDocument25]
+DocumentPath=./ProjectOutputs\Report Board Stack\HE280PCB_6a.xls
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=./ProjectOutputs\BOM\HE280PCB_v5d.csv
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=./ProjectOutputs\NC Drill\HE280PCB_v5d.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=./ProjectOutputs\NC Drill\HE280PCB_v5d.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.REP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=./ProjectOutputs\ExportSTEP\HE280PCB_v5d.step
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=./ProjectOutputs\BOM\HE280PCB_v5d.txt
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=./ProjectOutputs\NC Drill\HE280PCB_v5d.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=./ProjectOutputs\Pick Place\HE280PCB_v5d.txt
+DItemRevisionGUID=
+
+[GeneratedDocument49]
 DocumentPath=./ProjectOutputs\Report Board Stack\HE280PCB_v5d.xls
 DItemRevisionGUID=
 
 [Parameter1]
-Name=projectDesigner
-Value=UltiMachine
+Name=
+Value=
 
 [Parameter2]
-Name=projectDesigner
-Value=UltiMachine
+Name=projectVersion
+Value=6a
 
 [Parameter3]
-Name=projectdocumentNumber
-Value=1
+Name=projectTitle
+Value=HE280PCB
 
 [Parameter4]
 Name=projectDocumentRevision
 Value=1
 
 [Parameter5]
-Name=projectTitle
-Value=HE280PCB
+Name=projectdocumentNumber
+Value=1
 
 [Parameter6]
-Name=projectVersion
-Value=v5d
+Name=projectDesigner
+Value=UltiMachine
+
+[Parameter7]
+Name=projectDesigner
+Value=UltiMachine
 
 [Configuration1]
 Name=Default Configuration
@@ -270,7 +376,7 @@ ContentTypeGUID=
 ConfigurationType=
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for HE280PCB
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -526,7 +632,7 @@ PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 OutputType20=PCBDrawing
 OutputName20=Draftsman
 OutputDocumentPath20=
-OutputVariantName20=
+OutputVariantName20=[No Variations]
 OutputDefault20=0
 PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
