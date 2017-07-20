@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for HE280PCB
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -241,129 +241,29 @@ DItemRevisionGUID=
 DocumentPath=./ProjectOutputs\Report Board Stack\HE280PCB_6a.xls
 DItemRevisionGUID=
 
-[GeneratedDocument26]
-DocumentPath=./ProjectOutputs\BOM\HE280PCB_v5d.csv
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=./ProjectOutputs\NC Drill\HE280PCB_v5d.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=./ProjectOutputs\NC Drill\HE280PCB_v5d.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=./ProjectOutputs\Gerber\HE280PCB_v5d.REP
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=./ProjectOutputs\ExportSTEP\HE280PCB_v5d.step
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=./ProjectOutputs\BOM\HE280PCB_v5d.txt
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=./ProjectOutputs\NC Drill\HE280PCB_v5d.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=./ProjectOutputs\Pick Place\HE280PCB_v5d.txt
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=./ProjectOutputs\Report Board Stack\HE280PCB_v5d.xls
-DItemRevisionGUID=
-
 [Parameter1]
-Name=
-Value=
+Name=projectDesigner
+Value=UltiMachine
 
 [Parameter2]
-Name=projectVersion
-Value=6a
+Name=projectDesigner
+Value=UltiMachine
 
 [Parameter3]
-Name=projectTitle
-Value=HE280PCB
+Name=projectdocumentNumber
+Value=1
 
 [Parameter4]
 Name=projectDocumentRevision
 Value=1
 
 [Parameter5]
-Name=projectdocumentNumber
-Value=1
+Name=projectTitle
+Value=HE280PCB
 
 [Parameter6]
-Name=projectDesigner
-Value=UltiMachine
-
-[Parameter7]
-Name=projectDesigner
-Value=UltiMachine
+Name=projectVersion
+Value=6a
 
 [Configuration1]
 Name=Default Configuration
@@ -376,7 +276,7 @@ ContentTypeGUID=
 ConfigurationType=
 
 [Generic_EDE]
-OutputDir=Project Outputs for HE280PCB
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1493,6 +1393,24 @@ ComponentDesignItemID20=SeeMe Hot End
 ComponentSymbolReference20=SeeMe Hot End
 ComponentUpdate20=1
 ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=3Delight.SCHLIB
+ComponentDesignItemID21=SK310A
+ComponentSymbolReference21=SK310A
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=Capacitors.SchLib
+ComponentDesignItemID22=1uF 0805 50V X7R
+ComponentSymbolReference22=1uF 0805 50V X7R
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=Inductors_1.SchLib
+ComponentDesignItemID23=FERRITE 120R 1A 0402
+ComponentSymbolReference23=FERRITE 120R 1A 0402
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
