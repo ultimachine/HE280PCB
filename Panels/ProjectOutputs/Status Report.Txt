@@ -1,10 +1,10 @@
 Output: Generates pick and place files
 Type  : Pick Place
 From  : PCB Document [HE280PCB-panel.PcbDoc]
-   Generated File[HE280PCB-panel_v5d.txt]
+   Generated File[HE280PCB-panel_v6a.txt]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 12:24:59 PM On 5/12/2016
+Finished Output Generation At 2:16:27 PM On 7/31/2017
